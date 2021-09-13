@@ -1,0 +1,73 @@
+*
+{
+    margin: 0;
+    padding : 0;
+}
+
+#container
+{
+    width: 400px;
+    height: 400px;
+    border : solid 1px rgb(0, 0, 0);
+    margin: auto;
+    background-color: rgb(2, 2, 59);
+}
+
+#carre
+{
+    border: 6px solid rgb(152, 112, 175);
+    width: 100px;
+    height: 100px;
+    background:none;
+
+}
+
+#container-triangle
+{
+    width: 112px;
+    height: 112px;
+}
+
+#triangle
+{
+    position: absolute;
+    background:none;
+    border-bottom:100px solid rgb(128, 207, 128);
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+}
+#triangle1
+{
+    position: relative;
+    background:none;
+    border-bottom:90px solid rgb(39, 58, 39);
+    border-left: 45px solid transparent;
+    border-right: 45px solid transparent;
+    left:10px;
+}
+
+#croix
+{
+    width: 100px;
+    height: 100px;
+    background:none;
+}
+
+#trait1
+{
+    width: 100px;
+    height: 100px;
+    background:none;
+}
+
+#trait2
+{
+    background:none;
+}
+
+#rond
+{
+    width: 100px;
+    height: 100px;
+    background:none;
+}
